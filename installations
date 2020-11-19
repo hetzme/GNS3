@@ -3,7 +3,7 @@ https://docs.gns3.com/docs/getting-started/installation/linux/
 
 
 
-
+[https://www.b-ehlers.de/blog/posts/2019-03-26-gns3-install-debian/]
 Install additional Tools
 uBridge
 Download the latest uBridge source code (tar.gz) from https://github.com/GNS3/ubridge/releases and install it:
