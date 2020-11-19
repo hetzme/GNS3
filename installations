@@ -1,0 +1,28 @@
+
+https://docs.gns3.com/docs/getting-started/installation/linux/
+
+
+
+
+Install additional Tools
+uBridge
+Download the latest uBridge source code (tar.gz) from https://github.com/GNS3/ubridge/releases and install it:
+
+     tar xvfz <uBridge source archive>
+     cd ubridge-<version>
+     make
+     sudo make install
+     cd ..
+
+
+Dynamips
+Download the latest Dynamips source code (tar.gz) from https://github.com/GNS3/dynamips/releases and install it:
+
+     tar xvfz <Dynamips source archive>
+     cd dynamips-<version>
+     mkdir build
+     cd build
+     cmake ..
+     make
+     sudo make install
+     cd ../..
