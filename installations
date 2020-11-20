@@ -26,3 +26,12 @@ Download the latest Dynamips source code (tar.gz) from https://github.com/GNS3/d
      make
      sudo make install
      cd ../..
+
+
+
+https://www.b-ehlers.de/blog/posts/2019-03-26-gns3-install-debian/
+
+
+Cisco Images:
+
+    https://kevinmaynard.com/downloads/
